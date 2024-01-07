@@ -1,6 +1,6 @@
 Symbols: # = Wall   X = Player  0 = Treasure
 
-Controls: Directional buttons to move Player in the Maze
+Controls: Directional buttons to move player in the maze
 
 Collect treasures to score points!
 
